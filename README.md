@@ -1,7 +1,7 @@
 Teamwork project with [v-nafise](https://github.com/v-nafiseh/textProcessing)
 ## IMDb-storyline-TextProccessing 
 
-### A Python program web crawling and text proccessing of storylines for 250 top IMDb movies
+#### A Python program web crawling and text proccessing of storylines for 250 top IMDb movies
 
 
 At first the app needs to extract storyline text of movies via web crawlling using :
@@ -26,7 +26,7 @@ output example of 250 movie's common words computed graph:
 
 ## Digikala-Offers Scraping 
 
-### A Python program scraping the special offers of products and showing the results in a web using django framework 
+#### A Python program scraping the special offers of products and showing the results in a web using django framework 
 
 technologies used in this app are:
 + craping with BeautifulSoup library
