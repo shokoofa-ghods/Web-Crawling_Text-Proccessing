@@ -6,7 +6,7 @@ Teamwork project with [v-nafise](https://github.com/v-nafiseh/textProcessing)
 
 At first the app needs to extract storyline text of movies via web crawlling using :
 - BeautifulSoap
-- RegEx
++ RegEx
 
 Then analysing and extracting the keywords of the prepared text through TextRank algorithm + text proccessing like tokenizing, deleting stopwords and lemmatizing are implemented on story-line text of each movie
 
