@@ -19,7 +19,7 @@ Finally the weighted graph is stored in a csv file.
 output example of 250 movie's common words computed graph:
 
 
-![Figure_1 (1)](https://user-images.githubusercontent.com/56467180/133266167-f70cc948-5028-48d8-9cf0-6828aae4cf4b.png)
+/*![Figure_1 (1)](https://user-images.githubusercontent.com/56467180/133266167-f70cc948-5028-48d8-9cf0-6828aae4cf4b.png) */
 
 </br>
  
